@@ -1,2 +1,3 @@
 # Senforage
-Projet JEE MGL
+Projet JEE MGL 
+Ndiaye Siré Kane
